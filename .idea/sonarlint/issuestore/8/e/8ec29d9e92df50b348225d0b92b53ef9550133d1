@@ -1,0 +1,7 @@
+
+dpython:S2208"GImport only needed names or import the module and then use its members.(±úø¨ûÿÿÿÿ
+lpython:S117$"URename this local variable "Lang" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Öå
+upython:S1542:"]Rename function "_checkQuantifiedFormula" to match the regular expression ^[a-z_][a-z0-9_]*$.(·íÌ
+opython:S117u"YRename this local variable "CTL_frml" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¼²e
+dpython:S117U"MRename this parameter "F" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÒıÄ
+opython:S117p"XRename this local variable "kripkeC" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûÿÃ 

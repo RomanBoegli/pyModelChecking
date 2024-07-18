@@ -1,0 +1,4 @@
+
+Špython:S2208"GImport only needed names or import the module and then use its members.(à´¨ˆÿÿÿÿÿJ$8efda7b8-d3fe-40f7-a3a7-fbdce6bea6d2
+‹python:S1854)"HRemove this assignment to local variable 'phi'; the value is never used.(ÅìÍîýÿÿÿÿJ$284732b9-6e9a-4b5f-bd48-f88929b7b706
+—python:S117'"ZRename this local variable "ErrorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤Ò…®J$a2fcd17d-c21a-445f-a6d6-391300d4428d

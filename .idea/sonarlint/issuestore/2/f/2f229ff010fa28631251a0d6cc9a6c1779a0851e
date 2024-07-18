@@ -1,0 +1,8 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(……Δε
+jpython:S117Q"SRename this local variable "rE" to match the regular expression ^[_a-z][a-z0-9_]*$.(μ¨
+jpython:S117O"SRename this local variable "rG" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ίρά
+opython:S117Y"SRename this local variable "Vp" to match the regular expression ^[_a-z][a-z0-9_]*$.(έϋÿÿÿÿ
+qpython:S117e"URename this local variable "SCCs" to match the regular expression ^[_a-z][a-z0-9_]*$.(φίωÿÿÿÿ
+upython:S117i"^Rename this local variable "computed_SCCs" to match the regular expression ^[_a-z][a-z0-9_]*$.(τ·ΣΝ
+qpython:S117h"ZRename this local variable "list_SCCs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ΝΦΣ

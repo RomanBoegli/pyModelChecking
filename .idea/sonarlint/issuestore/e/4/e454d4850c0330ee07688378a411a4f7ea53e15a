@@ -1,0 +1,21 @@
+
+dpython:S2208"GImport only needed names or import the module and then use its members.(±úø¨ûÿÿÿÿ
+lpython:S117"URename this local variable "Lang" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Öå
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(×¾™
+dpython:S117H"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(üƒ‚
+ipython:S117Q"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(€³áÛÿÿÿÿÿ
+ipython:S117T"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯‡ ıüÿÿÿÿ
+cpython:S117]"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å¦®k
+ppython:S117j"YRename this parameter "Xs_in_closure" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øş®ä
+npython:S1542j"VRename function "_does_respect_Xs" to match the regular expression ^[a-z_][a-z0-9_]*$.(Øş®ä
+opython:S117"WRename this local variable "A_tail" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ú®¼
+ipython:S117}"MRename this parameter "K" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷ìÉÿÿÿÿÿ
+rpython:S117‰"URename this local variable "Lang" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØØ’üıÿÿÿÿ
+qpython:S3776}"TRefactor this function to reduce its Cognitive Complexity from 91 to the 15 allowed.(÷ìÉÿÿÿÿÿ
+epython:S117È"MRename this parameter "K" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñì’
+{python:S117Ï"^Rename this local variable "Xs_in_closure" to match the regular expression ^[_a-z][a-z0-9_]*$.(»©“®ùÿÿÿÿ
+jpython:S117â"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(”‘ÊÍøÿÿÿÿ
+jpython:S117â"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(”‘ÊÍøÿÿÿÿ
+xpython:S117ş"[Rename this local variable "T_reversed" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø¼ãÅøÿÿÿÿ
+xpython:S1542ó"ZRename function "_checkE_path_formula" to match the regular expression ^[a-z_][a-z0-9_]*$.(“Óııøÿÿÿÿ
+epython:S117„"MRename this parameter "F" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÒıÄ

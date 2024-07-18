@@ -1,0 +1,4 @@
+
+dpython:S2208"GImport only needed names or import the module and then use its members.(ääƒƒúÿÿÿÿ
+Bpython:S1481."%Remove the unused local variable "i".(£ýú¼þÿÿÿÿ
+Bpython:S1481R"%Remove the unused local variable "i".(£ýú¼þÿÿÿÿ
