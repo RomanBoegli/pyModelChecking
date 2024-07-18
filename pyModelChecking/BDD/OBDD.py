@@ -69,12 +69,12 @@ def parse_binary_expr(ordering, node):
     if isinstance(node, ast.Name):
         return parse_name(ordering, node)
 
-    if isinstance(node, ast.Num):
-        if node.n in [0, 1]:
-            return OBDD(BDDNode(node.n), ordering)
+    if isinstance(node, ast.Constant):
+        if node.value in [0, 1]:
+            return OBDD(BDDNode(node.value), ordering)
 
         raise SyntaxError('expected a binary expression, got number ' +
-                          '{}'.format(node.n))
+                          '{}'.format(node.value))
 
     raise SyntaxError('expected a binary expression, got a ' +
                       '{}'.format(node.__class__))
